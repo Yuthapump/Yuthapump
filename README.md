@@ -7,7 +7,7 @@ Software Developer, Web Developer & Mobile Developer
 * 🌍  I'm based in Phayao, Thailand
 * ✉️  You can contact me at [p.yuthapum@gmail.com](mailto:p.yuthapum@gmail.com)
 
-### Skills
+### Skills&Tools
 
 
 <p align="left">
