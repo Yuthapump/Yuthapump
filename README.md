@@ -93,6 +93,29 @@
   <a href="https://www.instagram.com/ym_bxnz/">Instagram</a>
 </p> -->
 
-### Socials
+<h2 align="center">Let's connect</h2>
 
-<p align="left"> <a href="https://www.facebook.com/ytp.benz" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/Yuthapump" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/ym_bxnz" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/yuthapum-pudpana-594889307" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+<p align="center">
+  Find me online or get in touch — I'm always open to interesting projects and conversations.
+</p>
+
+<p align="center">
+  <a href="https://github.com/Yuthapump">
+    <img src="https://img.shields.io/badge/GitHub-Yuthapump-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/yuthapum-pudpana-594889307/">
+    <img src="https://img.shields.io/badge/LinkedIn-Yuthapum_Pudpana-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:p.yuthapum@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-p.yuthapum-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.facebook.com/ytp.benz/">
+    <img src="https://img.shields.io/badge/Facebook-Benz_Yuthapum-0866FF?style=for-the-badge&amp;logo=facebook&amp;logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://www.instagram.com/ym_bxnz/">
+    <img src="https://img.shields.io/badge/Instagram-ym__bxnz-E4405F?style=for-the-badge&amp;logo=instagram&amp;logoColor=white" alt="Instagram" />
+  </a>
+</p>
